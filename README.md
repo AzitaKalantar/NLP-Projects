@@ -14,6 +14,6 @@ I study NLP through books and papers in my free time. I'm going to put my projec
 
 ### 1. Sentiment and Emotion Detector using ISEAR dataset
 
-[ISEAR](https://www.unige.ch/cisa/research/materials-and-online-research/research-material/) dataset, is a free, open sourse dataset containing sentences and their corresponding emotion (joy, fear, anger, sadness, disgust, shame, and guilt). This data was gathered from 3000 respondents in 37 countries by a large group of psychologists.
+[ISEAR](https://www.unige.ch/cisa/research/materials-and-online-research/research-material/) dataset, is a free, open sourse dataset containing some texts and their corresponding emotion (joy, fear, anger, sadness, disgust, shame, and guilt). This data was gathered from 3000 respondents in 37 countries by a large group of psychologists.
 
 in this folder I try different methods and models to train a model to ditect emotions based on a text, at the end I choose the best model and apply it on Tweeter data to find out the emotions behind the tweetes. 
